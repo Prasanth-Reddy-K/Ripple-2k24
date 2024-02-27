@@ -392,14 +392,16 @@ ol {
 
 .hero-section {
 	padding-top: 55px;
+	padding-bottom:55px;
 }
 
 .hero-section .hero-text {
-	padding-top: 184px;
+	padding-top: 50px;
+	padding-bottom:50px;
 }
 
 .hero-section .hero-text span {
-	font-size: 16px;
+	font-size: 40px;
 	color: #f44949;
 	text-transform: uppercase;
 	letter-spacing: 2px;
